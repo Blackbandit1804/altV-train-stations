@@ -20,7 +20,7 @@ resources: [
 ]
 ```
 
-Make sure to check out the config file in `server/config.mjs`.
+Make sure to check out the config file in `server/config.mjs`. You can change whatever you want like blip or marker color, destinations, price per km.
 
 ### License
 
